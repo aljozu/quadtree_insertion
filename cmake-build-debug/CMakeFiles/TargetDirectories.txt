@@ -1,0 +1,3 @@
+C:/Users/lojaz/CLionProjects/quadtree/cmake-build-debug/CMakeFiles/quadtree.dir
+C:/Users/lojaz/CLionProjects/quadtree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lojaz/CLionProjects/quadtree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
